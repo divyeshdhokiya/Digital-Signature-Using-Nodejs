@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Envelope>
+	<Header>
+		<Security>
+		</Security>
+	</Header>
+	<Body Id="body">
+		<Person>        
+			<FirstName>Divyesh</FirstName>
+			<LastName>Dhokiya</LastName>
+			<Contact>1234567890</Contact>
+			<City>Bengaluru</City>
+			<Country>India</Country>
+		</Person>
+		<CreationDateTime>2017-03-17T20:33:07:007</CreationDateTime>
+		<UniqueId>SoemPrefix-742</UniqueId>
+	</Body>
+</Envelope>

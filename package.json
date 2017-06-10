@@ -1,0 +1,24 @@
+{
+  "name": "digitalsignatureinnodejs",
+  "version": "1.0.0",
+  "description": "Signing xml envelop using xml-crypto module with X.509 certificate.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyeshdhokiya/Digital-Signature-Using-Nodejs.git"
+  },
+  "author": "Divyesh Dhokiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyeshdhokiya/Digital-Signature-Using-Nodejs/issues"
+  },
+  "homepage": "https://github.com/divyeshdhokiya/Digital-Signature-Using-Nodejs#readme",
+  "dependencies": {
+    "xml-crypto": "^0.10.1",
+    "xml2js": "^0.4.17",
+    "xmldom": "^0.1.27"
+  }
+}
